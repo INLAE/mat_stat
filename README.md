@@ -1,3 +1,8 @@
+### Алко ритмы машинного обучения
+| **Название** | **Описание** |
+| -------------------- | :--------------------- |
+|Дерево Решений|Своя реализация и из коробки. Сравнение метрики F1-score [Нотубук здесь](https://github.com/INLAE/mat_stat/blob/dataframe/DecisionTree.ipynb) GUI абстрактного Дерева Решений используя Tkinter [репозиторий тут](https://github.com/INLAE/mat_stat/tree/master/decisionTree) и его [описание](https://github.com/INLAE/mat_stat/blob/master/decisionTree/DecTree_Tkinter.pdf)|
+
 ### Анализ набора данных
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
